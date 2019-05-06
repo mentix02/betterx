@@ -23,6 +23,7 @@ setuptools.setup(
     author_email='manan.yadav02@gmail.com',
     description='a better set of tools for unix systems',
     long_description=long_description,
+    long_description_content_type='text/markdown',
     packages=['betterx'],
     scripts=['bin/lsx', 'bin/rme', 'bin/tshift'],
     test_suite='setup.betterx_test_suite',

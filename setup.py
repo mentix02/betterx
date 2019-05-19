@@ -16,7 +16,7 @@ with open('requirements.txt', 'r') as rf:
 
 setuptools.setup(
     name='betterx',
-    version='1.0.0',
+    version='1.0.1',
     url='https://github.com/mentix02/betterx',
     license='MIT',
     author='manan',

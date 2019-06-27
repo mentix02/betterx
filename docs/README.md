@@ -57,4 +57,4 @@ So I went at it again but this time, I was crystal clear what I had to do - impo
 
 ### Contributing
 
-Read the contributing guide [here](CONTRIBUTING.md)
+Read the contributing guide [here](CONTRIBUTING.md).

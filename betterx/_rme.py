@@ -61,6 +61,4 @@ def rme(
             os.remove(file)
         except KeyboardInterrupt:
             return False, 'manual exit'
-        except Exception as e:
-            return False, str(e)
     return True, ''

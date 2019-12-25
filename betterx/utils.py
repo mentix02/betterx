@@ -1,5 +1,5 @@
 """
-helper functions for unit tests
+helper functions for unit tests and internal functions
 """
 
 def full_path(root: str, file_name: str, sub_dir: str = None) -> str:

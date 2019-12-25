@@ -1,6 +1,6 @@
 # BetterX
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/mentix02/betterx/Python package)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/mentix02/betterx/Python%20package)
 
 A better unix utility tool.
 
